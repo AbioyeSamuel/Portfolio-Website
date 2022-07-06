@@ -1,0 +1,16 @@
+.colored-section{
+  background-color: #D5D5D5;
+}
+.container-fluid{
+  margin: 1%;
+}
+.nav-brand{
+  font-size: 40px;
+  text-decoration: none;
+  color: grey;
+  padding-left: 5%;
+  padding-right: 25%
+}
+.nav-brand:hover{
+  color: #fff;
+}
